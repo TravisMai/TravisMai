@@ -62,7 +62,7 @@
 
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
-  <a href="hhttps://github.com/TravisMai/CO3105_BKFRESH_HK221">
+  <a href="https://github.com/TravisMai/CO3105_BKFRESH_HK221">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=travismai&repo=CO3105_BKFRESH_HK221&show_icons=true&theme=radical" />
   </a>
   &nbsp;
