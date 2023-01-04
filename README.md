@@ -24,7 +24,7 @@
 ---
 
 ### :technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: Studying Computer Science at Ho Chi Minh University of Technology.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Studying Computer Science at Ho Chi Minh University of Technology.
 
 - :seedling: Exploring about the UX/UI and Data Scientist.
 
