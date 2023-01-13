@@ -54,9 +54,9 @@
 ### :fire: My Stats :
 <p align="center" >
 <a href="https://github.com/TravisMai">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=travismai&theme=radical&show_icons=true" />
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=travismai&theme=radical&show_icons=true" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travismai&theme=radical&layout=compact" />
+  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=travismai&theme=radical&layout=compact" />
 </a>
 </p>
 
@@ -65,11 +65,11 @@
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/TravisMai/CO3105_BKFRESH_HK221">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=travismai&repo=CO3105_BKFRESH_HK221&show_icons=true&theme=radical" />
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3105_BKFRESH_HK221&show_icons=true&theme=radical" />
   </a>
   &nbsp;
   <a href="https://github.com/TravisMai/CO3038_IOT_HK221">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=travismai&repo=CO3038_IOT_HK221&show_icons=true&theme=radical" />
+  <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3038_IOT_HK221&show_icons=true&theme=radical" />
   </a>
 </p>
 
