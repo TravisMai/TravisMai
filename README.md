@@ -68,9 +68,9 @@
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3105_BKFRESH_HK221&show_icons=true&theme=radical" />
   </a>
   &nbsp;
-  <a href="https://github.com/TravisMai/CO3038_IOT_HK221">
+<!--   <a href="https://github.com/TravisMai/CO3038_IOT_HK221">
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3038_IOT_HK221&show_icons=true&theme=radical" />
-  </a>
+  </a> -->
 </p>
 
 ⭐️ From [TravisMai](https://github.com/travismai)
