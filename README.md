@@ -62,7 +62,7 @@
 
 ---
 
-### 📌 &nbsp;Pin Repos
+<!-- ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/TravisMai/CO3105_BKFRESH_HK221">
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3105_BKFRESH_HK221&show_icons=true&theme=gotham" />
@@ -71,6 +71,6 @@
   <a href="https://github.com/TravisMai/CO3038_IOT_HK221">
   <img height="140em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3038_IOT_HK221&show_icons=true&theme=gotham" />
   </a>
-</p>
+</p> -->
 
 ⭐️ From [TravisMai](https://github.com/travismai)
