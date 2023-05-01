@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
 <div id="badges" align="center">
-<!--   <a href="https://www.linkedin.com/in/ngh%C4%A9a-mai-10654824b">
+  <a href="https://www.linkedin.com/in/travismai/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a> -->
+  </a>
   <a href="mailto:emches1976@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
