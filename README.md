@@ -26,7 +26,7 @@
 ### :technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Studying Computer Science at Ho Chi Minh University of Technology.
 
-- :seedling: Specialize in backend development and Data Scientist.
+<!-- - :seedling: Specialize in backend development and Data Scientist. -->
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/-emches1976@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:emches1976@gmail.com)
 
