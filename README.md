@@ -23,6 +23,11 @@
 
 ---
 
+### 💡 Motivation :
+The aim to create this Github is that I have nothing to refer to as a guide in my first years of IT. Therefore, this Github is dedicated to store all of my previous course assignment, source code and exams (if applicable) for others to use as a reference
+
+---
+
 ### :technologist: About Me :
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Studying Computer Science at Ho Chi Minh University of Technology.
 
