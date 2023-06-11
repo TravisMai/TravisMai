@@ -59,9 +59,9 @@ The aim to create this Github is that I have nothing to refer to as a guide in m
 ### :fire: My Stats :
 <p align="center" >
 <a href="https://github.com/TravisMai">
-  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=travismai&theme=gotham&show_icons=true" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=travismai&theme=gotham&show_icons=true" />
   &nbsp;
-  <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=travismai&theme=gotham&layout=compact&langs_count=6" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=travismai&theme=gotham&layout=compact&langs_count=6" />
 </a>
 </p>
 
@@ -70,11 +70,11 @@ The aim to create this Github is that I have nothing to refer to as a guide in m
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/TravisMai/CO3111_ChipChipFC_HK222">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=CO3111_ChipChipFC_HK222&show_icons=true&theme=gotham" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=CO3111_ChipChipFC_HK222&show_icons=true&theme=gotham" />
   </a>
   &nbsp;
   <a href="https://github.com/TravisMai/Linkedon">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=travismai&repo=Linkedon&show_icons=true&theme=gotham" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=Linkedon&show_icons=true&theme=gotham" />
   </a>
 </p>
 
