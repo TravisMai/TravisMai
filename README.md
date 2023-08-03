@@ -24,7 +24,9 @@
 ---
 
 ### 💡 Motivation :
-The aim to create this Github is that I have nothing to refer to as a guide in my first years of IT. Therefore, this Github is dedicated to store all of my previous course assignment, source code and exams (if applicable) for others to use as a reference
+The aim to create this Github is that I have nothing to refer to as a guide in my first years of IT. Therefore, this Github is dedicated to store all of my previous course assignment, source code and exams (if applicable) for others to use as a reference. 
+  
+Also some of my work for my future employers can see 🤡
 
 ---
 
