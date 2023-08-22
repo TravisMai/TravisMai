@@ -72,11 +72,11 @@ Also some of my work for my future employers can see 🤡
 ### 📌 &nbsp;Pin Repos
 <p align="center" >
   <a href="https://github.com/TravisMai/CO3111_ChipChipFC_HK222">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=CO3111_ChipChipFC_HK222&show_icons=true&theme=gotham" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=CO3111_ChipChipFC_HK222&show_icons=true&theme=gotham" />
   </a>
   &nbsp;
   <a href="https://github.com/TravisMai/Highlight-io">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=Highlight-io&show_icons=true&theme=gotham" />
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=travismai&repo=Highlight-io&show_icons=true&theme=gotham" />
   </a>
 </p>
 
